@@ -7,10 +7,10 @@ Illustrated by the successful formation of scientific networks within the [Human
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-and-the-caribbean-20230728/)
 
 ## Scientific Organising Committee
--[Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
--[David Adams](https://www.sanger.ac.uk/person/adams-david/), Wellcome Sanger Institute, UK
--[Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
--Vinicius Maracaja-Coutinho, University of Chile, Chile
+- [Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
+- [David Adams](https://www.sanger.ac.uk/person/adams-david/), Wellcome Sanger Institute, UK
+- [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
+- Vinicius Maracaja-Coutinho, University of Chile, Chile
 
 
 ******
