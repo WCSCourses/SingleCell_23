@@ -1,4 +1,8 @@
-# SingleCell_23
+## Course overview
+
+Single-cell sequencing technologies are powerful tools used to assess genomic, transcriptomic and proteomics information at the single-cell level. In recent years, the application of techniques that use single-cell sequencing have become increasingly common in several areas of research: including medicine, agriculture, and other life sciences disciplines. Single-cell sequencing may be used to study many aspects of an organism’s biology, both in health and disease, and the results of these studies contribute immensely to advancing the understanding of organisms as a whole. 
+
+Illustrated by the successful formation of scientific networks within the [Human Cell Atlas](https://www.humancellatlas.org/biological-networks/), there is growing interest among scientists and increased need for building capacity for single cell technologies. However, there is a lack of infrastructure, limited funding, and expertise  relevant for applying these advanced technologies in Latin America. Therefore, this short course offers hands-on laboratory training and bioinformatics analysis in single-cell technologies to contribute to capacity development in Latin America. 
 
 ******
 ## License
