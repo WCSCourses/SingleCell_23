@@ -12,6 +12,16 @@ Illustrated by the successful formation of scientific networks within the [Human
 - [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
 - Vinicius Maracaja-Coutinho, University of Chile, Chile
 
+## Instructors & Speakers
+- Erick Armingol, University of California, San Diego, USA
+- [Lia Chappell](https://www.sanger.ac.uk/person/chappell-lia/), Wellcome Sanger Institute, UK
+- [Yesid Cuesta Astroz](https://icmt.org.co/investigadores/yesid-cuesta-astroz/), Colombian Institute of Tropical Medicine (ICMT), Colombia
+- Benilton de Sá Carvalho, Unicamp, Brazil
+- [Anita Scoones](https://www.earlham.ac.uk/profile/anita-scoones), Earlham Institute, UK
+- [Patricia Severino](https://www.researchgate.net/profile/Patricia-Severino), Albert Einstein Research & Education Institute, Brazil
+- [Danielle Carvalho](https://www.linkedin.com/in/danielle-carvalho-2aa894197/), National Institute of Cancer (INCA), Brazil
+- [Flavia Aguiar](https://www.linkedin.com/in/flavia-aguiar-7412b8211/), National Institute of Cancer (INCA), Brazil
+
 
 ******
 ## License
