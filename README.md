@@ -36,7 +36,7 @@ _This material covers the basics of shell scripting, a powerful tool for automat
 - [Get started with Google Colaboratory:](https://www.youtube.com/watch?v=inN8seMm7UI)
 _This video provides a basic understanding of Google Colaboratory or Google Colab and their notebooks structure, which is the web-based interactive computing platform that we will be using along with our bioinformatics practical work._
 
-## Practical Modules with Google Colab Notebooks:
+### Practical Modules with Google Colab Notebooks:
 
 - [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1PmK1h4ECQgjoVJmVguz3rlwLorThhafD?ouid=109970662236337661286&usp=drive_link):
 _Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the whole pipeline analysis of scRNA-Seq experiments. Depending on the library preparation method used, the RNA sequences will be acquired either from 3’ ends (or 5’ ends) of the transcripts (10X Genomics, CEL-seq2, Drop-seq, inDrops) or from full-length transcripts (Smart-seq). The choice of a specific method will depend entirely on the biological question and the downstream analysis to be implemented from a count matrix. In this notebook we will cover theoretical and practical steps in setting up from raw sequences (reads)to count matrix analysis pipelines, as well as explore the basic output of the Cell Ranger tool._
@@ -60,15 +60,47 @@ By employing computational methods to address these variations when comparing mu
 _Gene expression changes in a dynamic way as cells transition from one state to another. These transitions occur during development and throughout life, which makes them of interest to understand changes in the cellular functions. In each of these states, some genes get activated and others silenced. 
 By using scRNA-seq data, computational tools such as Monocle3 can infer the single-cell trajectories that cells undergo when transitioning across the different functional states. Thus, the developmental history (ontogeny) of differentiated cell types can be traced. This notebook will cover the key concepts and methods related to inferring cell-state trajectory and pseudotime ordering, followed by hands-on activities that illustrate the use of Monocle3, a tool devised for this purpose._
 **Related Slides 06:** [Trajectory inference and pseudotime analysis](https://docs.google.com/file/d/1MmwUFSZAN-VRMdESC3BR2uPKLTF1raJc/edit?usp=docslist_api&filetype=mspresentation).
+
+- [Notebook 06 - Deciphering cell-cell communication in single-cell transcriptomics data](https://drive.google.com/file/d/1zeKNxP-Cz4osawd2uAKaf53yuI4VYMPL/view?usp=drivesdk):
 _Cell-cell communication plays a crucial role in coordinating cellular activities and maintaining the overall functionality of multicellular organisms. It allows cells to transmit signals, exchange information, and coordinate their behaviors, ultimately contributing to essential biological processes such as development, immune response, and tissue homeostasis. In this context, inferring cell-cell interactions from gene expression data becomes valuable for unraveling the multiple roles and coordination processes that cells perform within multicellular systems. 
 In this notebook, main concepts and a general computational workflow will be covered, then hands-on activities will be performed using LIANA, a flexible tool implementing multiple state-of-the-art methods to study cell-cell interactions._
 **Related Slides 07:** [Inferring cell-cell interactions and communication from gene expression](https://docs.google.com/file/d/1Az9izF29uTNFJK-IL55l_J9sZvTLOCIj/edit?usp=docslist_api&filetype=mspresentation).
 
-  - [Notebook 07 - An introduction to spatial transcriptomics approaches](https://drive.google.com/file/d/1aVYrs6tTiy6lx8GzZMwRbppikujiH_SL/view?usp=drivesdk):
+- [Notebook 07 - An introduction to spatial transcriptomics approaches](https://drive.google.com/file/d/1aVYrs6tTiy6lx8GzZMwRbppikujiH_SL/view?usp=drivesdk):
 _Spatial transcriptomics is a rapidly evolving field that aims to provide a spatially resolved gene expression profile of a tissue or organ. This technology has the potential to advance our understanding of complex biological processes and help identify new biomarkers for disease diagnosis and treatment. The main goal of spatial transcriptomics is to capture the gene expression profile of individual cells (or a mini mixture of cells in a given region) in their native tissue context, allowing for the identification of cell types and their spatial distribution. This information can then be used to create detailed maps of gene expression within tissues, providing insights into cellular interactions, developmental processes, and disease progression. 
 In this notebook, we will cover practical steps in setting up a spatial transcriptomics analysis pipeline using the Seurat package. We will cover the basic analysis to recover gene expression in different regions as well as cell type deconvolution approaches._
 **Related Slides 08:** [An introduction to spatial transcriptomics approaches](https://docs.google.com/presentation/d/1mal-7UriB0DcRMXPDclLBc0ZmG4yYjH12U1TH7hB0e4/edit).
-  
+
+### Project Development:
+
+We believe in hands-on learning and want to put your newly acquired bioinformatics skills to practice! At the end of our exciting week of classes, we've prepared a short project for you to dive into. This project will allow you to apply the knowledge gained throughout the course and further reinforce your understanding.
+
+Please access the project instructions [using this URL](https://docs.google.com/document/d/12kLU2URUCRvWt5ZOgxzRO0JOkITqn8Dr1kG6mth8yUE/edit).
+
+Feel free to explore, experiment, and ask questions as you work on the project. Remember, this is a fantastic opportunity to challenge yourself and gain practical experience in the fascinating world of single-cell transcriptomic RNA-seq data analysis.
+
+### Authorship and Acknowledgments:
+
+This comprehensive material has been a result of collaborative efforts since 2021 and has been successfully employed in numerous courses organized by esteemed institutions like the Human Cell Atlas, LatinCells initiative, and Wellcome Connecting Sciences. We extend our heartfelt gratitude to all the individuals listed below, who have actively contributed to the development and refinement of this material over the years. Their dedication and expertise have been instrumental in making this resource valuable for the bioinformatics community.
+
+We appreciate the continuous support and feedback from participants, mentors, and institutions that have made this endeavor possible. Together, we strive to advance the understanding and application of single-cell genomics in Latin America and the Caribbean.
+
+**List of Contributors - Listed Alphabetically:**
+
+- Adolfo Rojas
+- Benilton S. Carvalho
+- Carlos Alberto Oliveira de Biagi Júnior
+- Cesar Prada
+- Cristóvão Antunes
+- Erick Armingol
+- Gabriela Guimarães
+- Leandro Santos
+- Mariana Boroni
+- Raúl Arias-Carrasco
+- Ricardo Khouri
+- Vinicius Maracaja-Coutinho
+- Yesid Cuesta
+
 
 ******
 ## License
