@@ -23,6 +23,17 @@ Illustrated by the successful formation of scientific networks within the [Human
 - [Flavia Aguiar](https://www.linkedin.com/in/flavia-aguiar-7412b8211/), National Institute of Cancer (INCA), Brazil
 
 
+## Hands-On Bioinformatics Training Material
+
+Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
+
+### Pre-course Videos:
+
+Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
+
+#### [Plotting in R for Biologists (Single Cell)] (https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
+_This material provides an introduction to the R programming language, which is extensively used in bioinformatics and will be crucial in all the modules implemented over the course._
+
 ******
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
