@@ -29,10 +29,12 @@ Below, you will find the links to the pre-course videos and Google Colab noteboo
 
 ### Pre-course Videos:
 
-Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
-
 - [Plotting in R for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
 _This material provides an introduction to the R programming language, which is extensively used in bioinformatics and will be crucial in all the modules implemented over the course._
+- [Introduction to Linux for Biologists:](https://lms.wellcomeconnectingscience.org/course/view.php?id=107)
+_This material covers the basics of shell scripting, a powerful tool for automating tasks and data processing in bioinformatics._
+- [Get started with Google Colaboratory:](https://www.youtube.com/watch?v=inN8seMm7UI)
+_This video provides a basic understanding of Google Colaboratory or Google Colab and their notebooks structure, which is the web-based interactive computing platform that we will be using along with our bioinformatics practical work._
 
 ******
 ## License
