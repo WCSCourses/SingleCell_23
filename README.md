@@ -44,11 +44,12 @@ _Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the
 
 - [Notebook 02 - Quality Control, Exploratory Analysis, Data Normalization, and Clustering in scRNA-seq experiments](https://colab.research.google.com/drive/1fJfiP8rGGRcMFlzC96C9WyTu7a9f2cQD?usp=sharing):
 _In that part of the course, we will guide you through the initial steps of scRNA-seq data analysis, including data importing and organization, filtering, and preliminary visualization. These essential steps ensure quality and metadata information control over heterogeneous datasets before using the Seurat package and Bioconductor infrastructure. Once the data is imported, we will focus on assessing dataset quality through various metrics and visualizations, enabling the identification and removal of poor-quality cells. Furthermore, we'll delve into normalization techniques to address technical factors and clustering methods to group cells based on expression similarity, facilitating the interpretation of results and characterization of heterogeneity._
-**Related Slides 02:** [Quality control and exploration of scRNA-seq datasets ](https://docs.google.com/presentation/d/12FaxxhCGsflBTc_Z88weCJKDRmXKoIT6cNwVKrmF1NE/edit); **Related Slides 03:** [Clustering & normalization](https://docs.google.com/presentation/d/1og64xOAQuRZIbDgWfdaJEFTqhKqxekklLf2VHsKEBk0/edit).
+**Related Slides 02:** [Quality control and exploration of scRNA-seq datasets](https://docs.google.com/presentation/d/12FaxxhCGsflBTc_Z88weCJKDRmXKoIT6cNwVKrmF1NE/edit); **Related Slides 03:** [Clustering & normalization](https://docs.google.com/presentation/d/1og64xOAQuRZIbDgWfdaJEFTqhKqxekklLf2VHsKEBk0/edit).
 
-- [Notebook 03 - Differential expression, cell type annotation and functional data analysis](https://colab.research.google.com/drive/18qOUPjd2IqRrIjYtqZiPxBGW492ZKG2G)
+- [Notebook 03 - Differential expression, cell type annotation and functional data analysis](https://colab.research.google.com/drive/18qOUPjd2IqRrIjYtqZiPxBGW492ZKG2G):
 _Identifying the set of features (genes/transcripts) that show distinct patterns of expression when comparing different conditions is an essential part of scRNA-seq analysis. This enables one to explore what processes might be involved in the differentiation between these circumstances. 
 In this notebook, we will discuss mechanisms of analysis that combine differential expression, cell type annotation, and functional analyses to address this issue._
+**Related Slides 03:** [Differential expression, cell type annotation and functional data analysis](https://docs.google.com/presentation/d/1og64xOAQuRZIbDgWfdaJEFTqhKqxekklLf2VHsKEBk0/edit).
 
 
 ******
