@@ -56,6 +56,10 @@ _With the increasing complexity of single-cell data, the integration of multiple
 By employing computational methods to address these variations when comparing multiple samples, unwanted sources of variation can be eliminated, allowing researchers to focus on biologically meaningful signals. The process of removing batch effects involves making two important choices: selecting the appropriate method and parameterization, and determining the batch covariate. While the parameters are specific to the chosen method, the selection of the batch covariate depends on the goal of the integration task. This notebook will cover the key concepts and methods related to data integration and batch-effect correction, followed by hands-on activities that illustrate the integration of multiple datasets using methods from Seurat and Harmony._
 **Related Slides 05:** [scRNA-seq dataset integration](https://docs.google.com/file/d/1rMHBVBjhDw6idUPPfkly6MGaUOKF1e1d/edit?usp=docslist_api&filetype=mspresentation).
 
+- [Notebook 05 - Trajectory inference and pseudotemporal ordering](https://colab.research.google.com/drive/17PdSAMrS_0XLb8AlYGecmnIpCOFjlhzj):
+_Gene expression changes in a dynamic way as cells transition from one state to another. These transitions occur during development and throughout life, which makes them of interest to understand changes in the cellular functions. In each of these states, some genes get activated and others silenced. 
+By using scRNA-seq data, computational tools such as Monocle3 can infer the single-cell trajectories that cells undergo when transitioning across the different functional states. Thus, the developmental history (ontogeny) of differentiated cell types can be traced. This notebook will cover the key concepts and methods related to inferring cell-state trajectory and pseudotime ordering, followed by hands-on activities that illustrate the use of Monocle3, a tool devised for this purpose._
+**Related Slides 06:** [Trajectory inference and pseudotime analysis](https://docs.google.com/file/d/1MmwUFSZAN-VRMdESC3BR2uPKLTF1raJc/edit?usp=docslist_api&filetype=mspresentation).
 
 ******
 ## License
