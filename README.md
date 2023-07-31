@@ -31,7 +31,7 @@ Below, you will find the links to the pre-course videos and Google Colab noteboo
 
 Below, you will find the links to the pre-course videos and Google Colab notebooks for the practical modules. 
 
-#### [Plotting in R for Biologists (Single Cell)] (https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
+- [Plotting in R for Biologists](https://lms.wellcomeconnectingscience.org/course/view.php?id=106)
 _This material provides an introduction to the R programming language, which is extensively used in bioinformatics and will be crucial in all the modules implemented over the course._
 
 ******
