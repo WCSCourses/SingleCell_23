@@ -96,6 +96,7 @@ We appreciate the continuous support and feedback from participants, mentors, an
 - Gabriela Guimarães
 - Leandro Santos
 - Mariana Boroni
+- Patricia Severino
 - Raúl Arias-Carrasco
 - Ricardo Khouri
 - Vinicius Maracaja-Coutinho
