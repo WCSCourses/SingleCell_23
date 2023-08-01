@@ -38,7 +38,7 @@ _This video provides a basic understanding of Google Colaboratory or Google Cola
 
 ### Practical Modules with Google Colab Notebooks:
 
-- [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1PmK1h4ECQgjoVJmVguz3rlwLorThhafD?ouid=109970662236337661286&usp=drive_link):
+- [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1fJfiP8rGGRcMFlzC96C9WyTu7a9f2cQD?usp=sharing):
 _Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the whole pipeline analysis of scRNA-Seq experiments. Depending on the library preparation method used, the RNA sequences will be acquired either from 3’ ends (or 5’ ends) of the transcripts (10X Genomics, CEL-seq2, Drop-seq, inDrops) or from full-length transcripts (Smart-seq). The choice of a specific method will depend entirely on the biological question and the downstream analysis to be implemented from a count matrix. In this notebook we will cover theoretical and practical steps in setting up from raw sequences (reads)to count matrix analysis pipelines, as well as explore the basic output of the Cell Ranger tool._
 **Related Slides 01:** [Processing raw seqs](https://docs.google.com/presentation/d/1-JtH_fVxiBIU0RdUCJiFpRu8M3MHlGTQV0T9f-0612o/edit).
 
