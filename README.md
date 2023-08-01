@@ -10,7 +10,7 @@ Illustrated by the successful formation of scientific networks within the [Human
 - [Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
 - [David Adams](https://www.sanger.ac.uk/person/adams-david/), Wellcome Sanger Institute, UK
 - [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
-- Vinicius Maracaja-Coutinho, Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
+- [Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
 
 ## Instructors & Speakers
 - Erick Armingol, University of California, San Diego, USA
