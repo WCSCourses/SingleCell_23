@@ -10,7 +10,7 @@ Illustrated by the successful formation of scientific networks within the [Human
 - [Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
 - [David Adams](https://www.sanger.ac.uk/person/adams-david/), Wellcome Sanger Institute, UK
 - [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
-- Vinicius Maracaja-Coutinho, University of Chile, Chile
+- Vinicius Maracaja-Coutinho, Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
 
 ## Instructors & Speakers
 - Erick Armingol, University of California, San Diego, USA
@@ -40,7 +40,7 @@ _This video provides a basic understanding of Google Colaboratory or Google Cola
 
 - [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/drive/1PmK1h4ECQgjoVJmVguz3rlwLorThhafD?ouid=109970662236337661286&usp=drive_link):
 _Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the whole pipeline analysis of scRNA-Seq experiments. Depending on the library preparation method used, the RNA sequences will be acquired either from 3’ ends (or 5’ ends) of the transcripts (10X Genomics, CEL-seq2, Drop-seq, inDrops) or from full-length transcripts (Smart-seq). The choice of a specific method will depend entirely on the biological question and the downstream analysis to be implemented from a count matrix. In this notebook we will cover theoretical and practical steps in setting up from raw sequences (reads)to count matrix analysis pipelines, as well as explore the basic output of the Cell Ranger tool._
-**Related Slides 01:** [Module 01 - Processing raw seqs](https://docs.google.com/presentation/d/1-JtH_fVxiBIU0RdUCJiFpRu8M3MHlGTQV0T9f-0612o/edit).
+**Related Slides 01:** [Processing raw seqs](https://docs.google.com/presentation/d/1-JtH_fVxiBIU0RdUCJiFpRu8M3MHlGTQV0T9f-0612o/edit).
 
 - [Notebook 02 - Quality Control, Exploratory Analysis, Data Normalization, and Clustering in scRNA-seq experiments](https://colab.research.google.com/drive/1fJfiP8rGGRcMFlzC96C9WyTu7a9f2cQD?usp=sharing):
 _In that part of the course, we will guide you through the initial steps of scRNA-seq data analysis, including data importing and organization, filtering, and preliminary visualization. These essential steps ensure quality and metadata information control over heterogeneous datasets before using the Seurat package and Bioconductor infrastructure. Once the data is imported, we will focus on assessing dataset quality through various metrics and visualizations, enabling the identification and removal of poor-quality cells. Furthermore, we'll delve into normalization techniques to address technical factors and clustering methods to group cells based on expression similarity, facilitating the interpretation of results and characterization of heterogeneity._
